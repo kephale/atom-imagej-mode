@@ -2,11 +2,12 @@
   "name": "atom-imagej-mode",
   "main": "./lib/atom-imagej-mode",
   "version": "0.0.1",
-  "description": "A short description of your package",
+  "description": "An Atom package for running and evaluating ImageJ scripts.",
   "keywords": [
+    "imagej", "scijava"
   ],
-  "repository": "https://github.com/atom/atom-imagej-mode",
-  "license": "MIT",
+  "repository": "https://github.com/kephale/atom-imagej-mode",
+  "license": "Apache V2.0",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
