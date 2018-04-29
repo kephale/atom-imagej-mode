@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Run ImageJ script",
+        "command": "imagej-mode:run_script"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "atom-imagej-mode",
+          "submenu": [
+            {
+              "label": "Run Script",
+              "command": "imagej-mode:run_script"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
