@@ -1,16 +1,16 @@
 {
   "name": "atom-imagej-mode",
   "main": "./lib/atom-imagej-mode",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "An Atom package for running and evaluating ImageJ scripts.",
   "keywords": [
-    "imagej", "scijava"
+    "imagej",
+    "scijava"
   ],
   "repository": "https://github.com/kephale/atom-imagej-mode",
   "license": "Apache V2.0",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
