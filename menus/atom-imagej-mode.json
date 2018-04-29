@@ -4,6 +4,10 @@
       {
         "label": "Run ImageJ script",
         "command": "imagej-mode:run_script"
+      },
+      {
+        "label": "Launch ImageJ",
+        "command": "imagej-mode:launch_imagej"
       }
     ]
   },
@@ -17,6 +21,10 @@
             {
               "label": "Run Script",
               "command": "imagej-mode:run_script"
+            },
+            {
+              "label": "Launch ImageJ",
+              "command": "imagej-mode:launch_imagej"
             }
           ]
         }

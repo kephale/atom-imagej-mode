@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-alt-r": "imagej-mode:run_script"
+    "ctrl-alt-r": "imagej-mode:run_script",
+    "ctrl-alt-l": "imagej-mode:launch_imagej"
   }
 }
