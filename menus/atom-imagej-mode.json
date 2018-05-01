@@ -3,11 +3,11 @@
     "atom-text-editor": [
       {
         "label": "Run ImageJ script",
-        "command": "imagej-mode:run_script"
+        "command": "atom-imagej-mode:run_script"
       },
       {
         "label": "Launch ImageJ",
-        "command": "imagej-mode:launch_imagej"
+        "command": "atom-imagej-mode:launch_imagej"
       }
     ]
   },
@@ -20,11 +20,11 @@
           "submenu": [
             {
               "label": "Run Script",
-              "command": "imagej-mode:run_script"
+              "command": "atom-imagej-mode:run_script"
             },
             {
               "label": "Launch ImageJ",
-              "command": "imagej-mode:launch_imagej"
+              "command": "atom-imagej-mode:launch_imagej"
             }
           ]
         }
